@@ -8,3 +8,10 @@ def test2():
 
 def test_test_test():
 	print("test")
+
+
+def test_test_test():
+	print("test")
+
+def test_test_test():
+	print("test")
